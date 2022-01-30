@@ -1,11 +1,14 @@
 # qrcode
+______________
 
 QR code maker and decoder
 # barcode
+______________
 Barcode maker and
 decoder 
 
-# Commands
+# **Commands** 
+______________
 
 [+] For Install This Tool, Put The Following Commands Step by Step in Your Termux:
 
@@ -28,8 +31,11 @@ $ cd qrcode
 $ python qrcode.py
 
 #        **CONTACT INFO**
-	       ______________
+   ______________
+       
 
 `FB`         | https://web.facebook.com/s.m.ali.ahsan.al.jabir <br />
 `GitHub`     | https://github.com/Cyber-log <br />
-`Telegram`   | https://t.me/jabir52
+`Telegram`   | https://t.me/jabir52 <br /> 
+
+   ______________
