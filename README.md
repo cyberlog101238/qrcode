@@ -27,7 +27,7 @@ $ git clone https://github.com/Cyber-log/qrcode
 
 [+] For Set This Tool, Put The Following Commands in Your Termux:
 
-$ cd qrcode
+$ cd qrcode<br />
 $ python qrcode.py
 
 #        **CONTACT INFO**
