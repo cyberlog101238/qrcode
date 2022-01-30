@@ -1,7 +1,7 @@
 # qrcode
 
-QR code maker\n
-QR code decoder
+QR code maker and
+decoder
 # barcode
-Barcode maker
-Barcode decoder
+Barcode maker and
+decoder
