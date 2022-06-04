@@ -22,7 +22,7 @@ $ pip install pyzbar<br />
 $ pip install pypng<br />
 $ pip install pyqrcode<br />
 $ pip install zbar<br />
-$ git clone https://github.com/Cyber-log/qrcode
+$ git clone https://github.com/Cyberlog101238/qrcode
 
 
 [+] For Set This Tool, Put The Following Commands in Your Termux:
